@@ -5,7 +5,7 @@ This repository is the official code for the paper "Superpixel-based plastic lit
 
 The link to full article will be available [here](#).
 
-![Workflow](https://github.com/gaetanosettembre/hyperplast/paper/workflow_hyperplast.png)
+![Workflow](https://github.com/gaetanosettembre/hyperplast/blob/main/paper/workflow_hyperplast.png?raw=true)
 
 
 ## Citation
